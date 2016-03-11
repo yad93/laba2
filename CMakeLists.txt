@@ -1,5 +1,4 @@
-# CMake build script for the libgit2 project 111111111111111111111111111111111
-#
+# CMake build script for the libgit2 project 1111111111111111
 # Building (out of source build):
 # > mkdir build && cd build
 # > cmake .. [-DSETTINGS=VALUE]
